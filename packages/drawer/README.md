@@ -66,7 +66,7 @@ npm install @material/mwc-drawer
 <img src="images/dismissable.gif" width="552px">
 
 ```html
-<mwc-drawer hasHeader type="dismissable">
+<mwc-drawer hasHeader type="dismissible">
     <span slot="title">Drawer Title</span>
     <span slot="subtitle">subtitle</span>
     <div>
